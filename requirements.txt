@@ -1,0 +1,7 @@
+Flask==3.0.0
+Flask-SQLAlchemy==3.1.1
+Flask-Migrate==4.0.5
+Flask-CORS==4.0.0
+python-decouple==3.8
+sqlalchemy>=2.0.44  # Required for Python 3.13 compatibility
+# Pillow==10.2.0  # Optional - only needed for image processing
