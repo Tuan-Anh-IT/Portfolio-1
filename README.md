@@ -223,9 +223,10 @@ Dự án này đã được chuyển đổi từ Django sang Flask. Những thay
 ## 📞 Hỗ trợ
 
 Nếu có vấn đề hoặc câu hỏi:
-- Email: contact@tanhcyber.com
+- Email: ptuananh7787@gmail.com
 - GitHub: [Tuan-Anh-IT](https://github.com/Tuan-Anh-IT)
 
 ## 📄 License
 
 MIT License - Xem file LICENSE để biết thêm chi tiết.
+
